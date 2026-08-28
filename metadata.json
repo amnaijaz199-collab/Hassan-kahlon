@@ -1,0 +1,6 @@
+{
+  "name": "Classic Space Shooter",
+  "description": "A classic arcade space shooting game featuring waves of enemies, power-ups, boss battles, sound effects, and high score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
